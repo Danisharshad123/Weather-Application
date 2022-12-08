@@ -43,13 +43,13 @@ body{
 }
 
 .location{
-    color: #EDEDED;
+    color: white;
     text-align: center;
     font-size: 100px;
     margin-top: 500px;
 }
 .temperature{
-    color: #EDEDED;
+    color: white;
     font-size: 100px;
     text-align: center;
     font-weight: 900;

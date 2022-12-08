@@ -3,7 +3,14 @@
   <div class="upper-data">
     <img src="../assets/istockphoto-1150050227-170667a.jpg" class="my-5" *ngIf="14 > 15">
     <img src="../assets/istockphoto-863513024-170667a.jpg" class="my-5" *ngIf="14 <= 15">
+
+    <div class="weather-data">
+      <div class="location">Lahore/Township</div>
+      <div class="temperature">{{ 14.40 | number : '1.0-0' }}</div>
+    </div>
+
   </div>
+
   <div class="lower-data">
     <img src="" alt="">
     <img src="" alt="">

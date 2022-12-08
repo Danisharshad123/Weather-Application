@@ -51,10 +51,10 @@ body{
 }
 
 .location{
-    color: white;
+    color: #3c429e;
     text-align: center;
-    font-size: 100px;
-    margin-top: 500px;
+    font-size: 100%;
+    margin-top: 485px;
 }
 .temperature{
     color: white;
